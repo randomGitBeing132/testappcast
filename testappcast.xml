@@ -4,7 +4,7 @@
         <title>For unit test only</title>
         <item>
             <title>Version 2.0.0</title>
-            <link href="http://localhost:1337/Sparkle_Test_App.zip"
+            <link href="https://pub.dev/packages/upgrader"
                   sparkle:version="4.0" sparkle:os="iOS"/>
             <sparkle:version>4.0.0</sparkle:version>
             <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
@@ -14,7 +14,7 @@
         </item>
         <item>
             <title>Version 5.0.0</title>
-            <link href="http://localhost:1337/Sparkle_Test_App.zip"
+            <link href="https://pub.dev/packages/upgrader"
                   sparkle:version="3.0" sparkle:os="android"/>
             <sparkle:version>3.0.0</sparkle:version>
             <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
