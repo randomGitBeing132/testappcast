@@ -4,7 +4,7 @@
         <title>For unit test only</title>
         <item>
             <title>Version 2.0.0</title>
-            <link href="https://pub.dev/packages/upgrader"
+            <link href="https://github.com/lihaoyun6/AirBattery/releases/download/1.5.5/AirBattery_v1.5.5.dmg"
                   sparkle:version="4.0" sparkle:os="iOS"/>
             <sparkle:version>4.0.0</sparkle:version>
             <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
@@ -14,7 +14,7 @@
         </item>
         <item>
             <title>Version 5.0.0</title>
-            <link href="https://pub.dev/packages/upgrader"
+            <link href="https://github.com/lihaoyun6/AirBattery/releases/download/1.5.5/AirBattery_v1.5.5.dmg"
                   sparkle:version="3.0" sparkle:os="android"/>
             <sparkle:version>3.0.0</sparkle:version>
             <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
