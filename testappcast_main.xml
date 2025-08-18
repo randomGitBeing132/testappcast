@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Genki Sushi - Version 2.0.0 Update</title>
+    <!-- Critical Update for Android -->
+    <item>
+        <title>Version 1.0 (Android)</title>
+        <description>Critical bug fix for Android</description>
+        <pubDate>Sat, 15 Aug 2025 15:00:00 +0800</pubDate>
+        <enclosure 
+            url="https://play.google.com/store/apps/details?id=sg.com.genki.app&hl=en_SG" 
+            sparkle:version="1.0" 
+            sparkle:os="android" 
+        />
+        <sparkle:version>1.0.0</sparkle:version>
+        <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+        <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
+    </item>
+
+    <!-- Critical Update for iOS -->
+    <item>
+        <title>Version 1.0 (iOS)</title>
+        <description>Critical bug fix for iOS</description>
+        <pubDate>Sat, 16 Aug 2025 15:00:00 +0800</pubDate>
+        <enclosure 
+            url="https://apps.apple.com/sg/app/%E5%85%83%E6%B0%97%E5%AF%BF%E5%8F%B8-genki-sushi-sg/id1480208898" 
+            sparkle:version="1.0" 
+            sparkle:os="iOS" 
+        />
+        <sparkle:version>1.0.0</sparkle:version>
+        <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+        <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
+    </item>
+
+    <!-- The best chosen release (Android) -->
+    <item>
+        <title>Version 1.1 (Android)</title>
+        <description>Minor updates and improvements for Android</description>
+        <pubDate>Sat, 17 Aug 2025 15:00:00 +0800</pubDate>
+        <enclosure 
+            url="https://play.google.com/store/apps/details?id=sg.com.genki.app&hl=en_SG" 
+            sparkle:version="1.1" 
+            sparkle:os="android" 
+        />
+        <sparkle:version>1.1.0</sparkle:version>
+        <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+    </item>
+
+    <!-- The best chosen release (iOS) -->
+    <item>
+        <title>Version 1.2 (iOS)</title>
+        <description>Minor updates and improvements for iOS</description>
+        <pubDate>Sat, 18 Aug 2025 15:00:00 +0800</pubDate>
+        <enclosure 
+            url="https://apps.apple.com/sg/app/%E5%85%83%E6%B0%97%E5%AF%BF%E5%8F%B8-genki-sushi-sg/id1480208898" 
+            sparkle:version="1.2" 
+            sparkle:os="iOS" 
+        />
+        <sparkle:version>1.2.0</sparkle:version>
+        <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+    </item>
+  </channel>
+</rss>
