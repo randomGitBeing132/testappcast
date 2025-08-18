@@ -3,9 +3,9 @@
     <channel>
         <title>For unit test only</title>
         <item>
-            <title>Version 2.0.0</title>
-            <link href="https://play.google.com/store/apps/details?id=com.example.app"
-                  sparkle:version="4.0" sparkle:os="iOS"/>
+            <title>Version 4.0.0</title>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.example.app&pli=1"
+                       sparkle:version="4.0" sparkle:os="iOS"/>
             <sparkle:version>4.0.0</sparkle:version>
             <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
             <sparkle:tags>
@@ -13,14 +13,15 @@
             </sparkle:tags>
         </item>
         <item>
-            <title>Version 5.0.0</title>
-            <link href="https://play.google.com/store/apps/details?id=com.example.app"
-                  sparkle:version="3.0" sparkle:os="android"/>
+            <title>Version 3.0.0</title>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.example.app&pli=1"
+                       sparkle:version="3.0" sparkle:os="android"/>
             <sparkle:version>3.0.0</sparkle:version>
             <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
         </item>
+
     </channel>
 </rss>
