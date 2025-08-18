@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>For unit test only</title>
+        <item>
+            <title>Version 4.2.0</title>
+            <enclosure url="https://apps.apple.com/sg/app/%E5%85%83%E6%B0%97%E5%AF%BF%E5%8F%B8-genki-sushi-sg/id1480208898"
+                       sparkle:version="4.2" sparkle:os="iOS"/>
+            <description>Fix ios app store thingy blahblahblah</description>
+            <sparkle:version>4.2.0</sparkle:version>
+            <sparkle:shortVersionString>4.2</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>Version 3.3.0</title>
+            <enclosure url="https://play.google.com/store/apps/details?id=sg.com.genki.app&hl=en_SG"
+                       sparkle:version="3.3" sparkle:os="android"/>
+            <description>Fix menu not displaying thingy blahblahblah</description>
+            <sparkle:version>3.3.0</sparkle:version>
+            <sparkle:shortVersionString>3.3</sparkle:shortVersionString>
+        </item>
+
+    </channel>
+</rss>
