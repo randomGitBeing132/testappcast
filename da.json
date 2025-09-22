@@ -29,19 +29,17 @@
                         "description": "Bearer token. Format: 'Bearer {token}'"
                     }
                 ],
-                "requestBody": {
-                    "x-name": "PushNotificationsRequest",
-                    "description": "",
-                    "content": {
-                        "*/*": {
-                            "schema": {
-                                "$ref": "#/components/schemas/PushNotificationsRequest"
-                            }
+                "parameters": [
+                    {
+                        "in": "body",
+                        "name": "PushNotificationsRequest",
+                        "description": "",
+                        "required": true,
+                        "schema": {
+                          "$ref": "#/components/schemas/PushNotificationsRequest"
                         }
-                    },
-                    "required": true,
-                    "x-position": 1
-                },
+                    }
+                ],
                 "responses": {
                     "204": {
                         "description": "No Content"
